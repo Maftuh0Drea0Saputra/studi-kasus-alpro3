@@ -1,0 +1,8 @@
+==============Slip Pembayaran=============
+
+
+pesanan : Ayam geprek
+Jumlah pesanan 3
+total bayar = 78000
+===========selamat menikmati==============
+=============Terima Kasih=================
